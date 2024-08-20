@@ -1,0 +1,43 @@
+.commonbtn {
+    background-color: rgb(1, 41, 114);
+    color: white;
+    width: 220px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 18px;
+    transition: background-color .3s ease;
+    margin-top: 10px;
+ 
+  }
+
+  .home{
+    background-color: azure;
+    padding: 100px 0;
+    text-align: center;
+
+
+    .home-content{
+        max-width: 800px;
+        margin: 0 auto;
+    }
+    h1{
+        font-size: 36px;
+        margin-bottom: 20px;
+
+        @media (max-width : 768px){
+            font-size: 28px;
+        }
+    }
+    p{
+        font-size: 18px;
+        color:black;
+        margin-bottom: 40px;
+
+        @media (max-width: 768px) {
+            font-size: 16px;
+        }
+    }
+
+  }

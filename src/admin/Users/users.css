@@ -1,0 +1,10 @@
+.users {
+    width: 430px;
+    overflow-x: auto;
+    white-space: nowrap;
+    margin: 20px auto;
+    min-height: 90vh;
+    padding-left: 50%;
+  
+  }
+  

@@ -13,7 +13,7 @@ import  Loading from "./components/loading/Loading"
 import Courses from "./components/pages/courses/Courses";
 import CourseDescription from "./components/pages/coursedescription/CourseDescription";
 import PaymentSuccess from "./components/pages/paymentsuccess/PaymentSuccess";
-import Dashbord from "./components/pages/dashbord/dashbord";
+import Dashbord from "./components/pages/dashbord/Dashbord";
 import CourseStudy from "./components/pages/coursestudy/CourseStudy";
 import Lecture from "./components/pages/lecture/Lecture";
 import AdminDashboard from "./admin/Dashboard/AdminDashboard";

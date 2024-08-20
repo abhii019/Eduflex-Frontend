@@ -7,7 +7,7 @@ import Register from "./components/pages/auth/Register";
 import Verify from "./components/pages/auth/Verify";
 import About from "./components/pages/about/About";
 import Account from "./components/pages/account/Account";
-import Footer from "./components/footer/footer";
+import Footer from "./components/footer/Footer";
 import { UserData } from "./context/UserContext";
 import  Loading from "./components/loading/Loading"
 import Courses from "./components/pages/courses/Courses";
